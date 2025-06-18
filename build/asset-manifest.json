@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64f6b709.css",
+    "main.js": "/static/js/main.c1136217.js",
+    "static/media/body-building-5711492_1280.jpg": "/static/media/body-building-5711492_1280.54f84f2fe5a3c9221cfc.jpg",
+    "static/media/1000_F_410804419_yM0G32FX404ZQZRTIxAagpDesKOtAMVz.jpg": "/static/media/1000_F_410804419_yM0G32FX404ZQZRTIxAagpDesKOtAMVz.279baa61c2890df3066e.jpg",
+    "static/media/Screenshot 2025-06-18 225906.png": "/static/media/Screenshot 2025-06-18 225906.c0c77503eae740b433cd.png",
+    "index.html": "/index.html",
+    "main.64f6b709.css.map": "/static/css/main.64f6b709.css.map",
+    "main.c1136217.js.map": "/static/js/main.c1136217.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f6b709.css",
+    "static/js/main.c1136217.js"
+  ]
+}
